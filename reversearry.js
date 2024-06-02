@@ -1,4 +1,5 @@
 // This function takes in an array of words and returns a new array with the words reversed
+// returns null if the array is empty
 
 function reverseWords(words) {
   if (words.length === 0) {
